@@ -1,0 +1,10 @@
+/home/veronika/MLrust/linfa_bayes/target/debug/deps/linfa_datasets-d597cfdc632df05c.rmeta: /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/lib.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/dataset.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../README.md /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../data/winequality-red.csv.gz
+
+/home/veronika/MLrust/linfa_bayes/target/debug/deps/liblinfa_datasets-d597cfdc632df05c.rlib: /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/lib.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/dataset.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../README.md /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../data/winequality-red.csv.gz
+
+/home/veronika/MLrust/linfa_bayes/target/debug/deps/linfa_datasets-d597cfdc632df05c.d: /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/lib.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/dataset.rs /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../README.md /home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../data/winequality-red.csv.gz
+
+/home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/lib.rs:
+/home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/dataset.rs:
+/home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../README.md:
+/home/veronika/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linfa-datasets-0.7.0/src/../data/winequality-red.csv.gz:

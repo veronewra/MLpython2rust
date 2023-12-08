@@ -1,0 +1,28 @@
+[package]
+name = "linfa_bayes"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[features]
+serde = ["serde_crate", "ndarray/serde"]
+
+[dependencies.serde_crate]
+package = "serde"
+optional = true
+version = "1.0"
+default-features = false
+features = ["std", "derive"]
+
+[dependencies]
+anyhow = "1.0"
+ndarray = { version = "0.15" , features = ["approx"]}
+ndarray-stats = "0.5"
+thiserror = "1.0"
+csv = "1.1"
+
+linfa = { version = "0.7.0" }
+linfa-bayes = {version = "0.7.0"}
+linfa-datasets = { version = "0.7.0", features = ["winequality"] }
+
