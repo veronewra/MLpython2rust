@@ -10,4 +10,4 @@ Note that for benchmarking I ran the linfa_bayes binary file since that is close
 Specs of the computer that was used: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
 Results will vary based on your computer and the tasks its running. 
 
-I'd appreciate any and all feedback or follow-ups!
+I appreciate any and all feedback or follow-ups!
